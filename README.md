@@ -1,4 +1,4 @@
-# My Project
+# ETL Streaming Kafka
 
 This is a Python project demonstrating the use of various features and best practices.
 
