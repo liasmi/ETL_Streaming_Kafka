@@ -1,5 +1,5 @@
 
-from GenericValidators.src.utils.RequiredField import hello
+from Dags.src.utils.kafka_stream import hello
 
 import unittest
  
